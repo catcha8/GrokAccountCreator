@@ -10,7 +10,7 @@ WORKS !!
 
 To get a **free Turnstile solver API key**, contact:
 
-- **Discord Server:** [https://discord.gg/XuGAPnAP45](https://discord.gg/XuGAPnAP45)
+- **Discord Server:** [https://discord.gg/NxUdjTr8rs](https://discord.gg/NxUdjTr8rs)
 - **Telegram:** [https://t.me/NSLSolver](https://t.me/NSLSolver)
 
 ## Disclaimer

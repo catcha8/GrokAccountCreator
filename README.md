@@ -1,5 +1,4 @@
 # Grok (x.ai) Account Creator (Tempmail included)
-
 ## ⚠️ Proof of Concept
 
 WORKS !!
@@ -8,6 +7,8 @@ WORKS !!
 
 ## Turnstile Solver API
 
+
+# Register at [https://nslsolver.com](https://nslsolver.com)
 To get a **free Turnstile solver API key**, contact:
 
 - **Discord Server:** [https://discord.gg/NxUdjTr8rs](https://discord.gg/NxUdjTr8rs)
